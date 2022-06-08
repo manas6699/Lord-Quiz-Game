@@ -1,3 +1,3 @@
 # Lord Quiz Game
 
-Its is a simple quiz game
+It is a simple quiz game
