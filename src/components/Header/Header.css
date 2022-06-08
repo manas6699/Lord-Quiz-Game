@@ -1,0 +1,14 @@
+.title {
+  text-transform: uppercase;
+  font-size: 5vw;
+  font-family: 'Libre Baskerville', serif;
+  cursor: pointer;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+

@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scrollbar-width: thin; /* Firefox */
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+  background-color: grey;
+}
+
+a {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+.app {
+  min-height: 98.5vh;
+  border: 2px solid #00000093;
+  background: #C9D6FF;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #f5e3e3, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #E2E2E2, #dbe1f6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  
+
+
+  margin: 5px;
+  padding: 5px;
+}
+
+.mainImg {
+  padding: 10px 0 5px 0;
+}
